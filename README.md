@@ -8,7 +8,7 @@
 
 Este projeto foi desenvolvido durante o curso de **Lógica de Programação da Alura** 🧠. Ele utiliza a linguagem **JavaScript** para criar um jogo simples e divertido onde o jogador tenta adivinhar um número secreto.
 
-Com uma interface amigável feita com **HTML** e **CSS**, o jogo ajuda a praticar lógica, loops e manipulação do DOM de forma interativa e envolvente! 🎉
+Com uma interface amigável feita com **HTML** e **CSS**, o jogo ajuda a praticar lógica e loops de forma interativa e envolvente! 🎉
 
 ---
 
